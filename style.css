@@ -16,10 +16,39 @@ text-align:center;
 }
 h2{
 text-align:center;
-color:green;
+color:white;
 font-family:"pacifico";
+}
+h3{
+    text-align:center;
+    color:crimson;
+    font-family:"Times New Roman";
+    font-size:40px;
 }
 #para1{
 font-size:20px;
 text-align:center;
 }
+#para2{
+    font-size:21.7px;
+    text-align:center;
+    }
+.blueAIHeader{
+    background-color:blue;
+    margin-left:auto;
+    margin-right:auto;
+}
+.outlineForPage{
+border: 10px outset green;
+}
+.ourAppHeader{
+    background-color:black;
+    margin-left:auto;
+    margin-right:auto;
+}
+ul.b {
+    list-style-type: square;
+    list-style-position: outside;
+    text-align:center;
+  }
+  
